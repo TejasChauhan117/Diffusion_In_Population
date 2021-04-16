@@ -1,1 +1,1 @@
-# Diffusion_In_Population
+# DIffusion-In-Population
